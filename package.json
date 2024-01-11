@@ -1,5 +1,5 @@
 {
-  "name": "bypass-r1zax",
+  "name": "bypass-Touniie",
   "version": "17.0.0",
   "description": "File Bot Touniie.",
   "main": "mirai.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/RqzaX040/Bot12-R1zaX.git"
   },
-  "author": "R1zaX",
+  "author": "Touniie",
   "license": "GPL-3.0",
   "dependencies": {
     "@miraipr0ject/assets": "^1.0.9",
@@ -153,7 +153,7 @@
   "bugs": {
     "url": "https://github.com/RqzaX040/Global-Hokai/issues"
   },
-  "homepage": "https://github.com/RqzaX040/Global-Hokai/blob/main/README.md",
+  "homepage": "https://raw.githubusercontent.com/NT-G-Dark/G-Dark-test/main/README.md",
   "devDependencies": {
     "node": "^16.20.0"
   },
